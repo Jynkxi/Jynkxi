@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Jynkxi
-- 👀 I’m interested in working on data and bringing out the best in any form of data encountered
-- 🌱 I’m currently learning R Studio for data science
-- 📫 How to reach me ... bernidoz98@gmail.com
+- 👋 Hi, I’m @Benjamin
+- 👀 I’m interested in working on data and bringing out the best in any form of data encounter
